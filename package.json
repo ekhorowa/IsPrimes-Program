@@ -1,0 +1,21 @@
+{
+  "name": "isprimes",
+  "version": "1.0.0",
+  "description": "This program generates the prime number of the argument passed",
+  "main": "isPrimes.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omokaro Faith",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekhorowa/IsPrimes-Program.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ekhorowa/IsPrimes-Program/issues"
+  },
+  "homepage": "https://github.com/ekhorowa/IsPrimes-Program#readme"
+}
